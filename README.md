@@ -676,7 +676,7 @@ A: Yes! The polling script is lightweight (~50MB RAM). A Pi 4 can run it 24/7 fo
 ## 📞 Contact
 
 - **Project Lead:** [JEIN JOSH ]
-- **Engineering:** [JEIN]
+- **Engineering:** [JElekwa]
 
 
 ---
