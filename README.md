@@ -647,7 +647,7 @@ pytest tests/
 
 ## 📝 License
 
-This project is internal to [Your Company]. Not for public distribution.
+This project is internal to [JEIN inc in collaboration with Joshua Elekwa]. Not for public distribution.
 
 ---
 
