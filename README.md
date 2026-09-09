@@ -20,7 +20,7 @@ Automate your reCommerce warehouse intake, listing generation, and inventory tra
 
 ## 🎯 Current Problem
 
-Your warehouse currently:
+Client’s warehouse currently:
 - ✗ Takes **4+ hours** to process 20 items (1 batch)
 - ✗ Requires staff to **manually write titles, descriptions, and pricing** (20 min per item)
 - ✗ Produces **~10 listings/day** at capacity
